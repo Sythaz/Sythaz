@@ -22,9 +22,9 @@ From front-end polish to back-end power, I love turning ideas into fully functio
 
 ### 🌟 Featured Projects
 
-- 🚀 [Travs](https://github.com/Sythaz/Travs) — Travel app UI/UX showcase
+- 🚀 [Travs](https://github.com/Sythaz/Travs) — Travel app with Flutter
 - 🏨 [Dummy Hotel](https://github.com/Sythaz/dummy-hotel) — Hotel booking concept with Flutter
-- 🐶 [DogoApp](https://github.com/Sythaz/DogoApp-DicodingSubmission) — Dog app for Dicoding submission
+- 🐶 [DogoApp](https://github.com/Sythaz/DogoApp-DicodingSubmission) — Dog app for Dicoding submission with Flutter
 
 Check out the pinned repos for more awesome stuff ✨
 
